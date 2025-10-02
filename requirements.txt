@@ -1,0 +1,7 @@
+streamlit
+langchain
+langchain-core
+langchain-groq
+
+os
+dotenv
